@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  text-align: center;
+  font-family: "Work Sans", sans-serif;
+  font-weight: bold;
+  font-size: larger;
+  line-height: 2;
+  background-color: #F9F3EE;
+  color: #40515E;
+
+
+}
+
+hr{
+    border: dotted grey 6px;
+    border-bottom: none;
+    width: 10%;
+
+}
+
+h1 {
+  font-family: "Amatic SC", cursive;
+  font-size: 5.625rem;
+  margin-top: 60px auto 0 auto;
+  color: #97C4B8;
+
+
+}
+
+h2 {
+    color: #97C4B8;
+  font-family: "Raleway", sans-serif;
+  font-size: 2.4rem;
+}
+h3 {
+    color: #97C4B8;
+  font-family: "Raleway", sans-serif;
+}
+
+.top-container {
+  background-color: #CCF3EE;
+  position: relative;
+  padding-top: 100px;
+}
+
+hel{
+    padding-top: 100px;
+}
+
+.hello{
+    width: 50%;
+    margin: 100px auto 100px auto;
+
+}
+
+.topcloud {
+  position: absolute;
+  width: 10%;
+  right: 300px;
+  top: 50px;
+}
+
+.bottomcloud {
+    width: 10%;
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
+}
+
+.skill-row{
+
+    width: 50%;
+    margin: 100px auto 100px auto;
+    text-align: left;
+}
+
+img{
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+}
+.btn{
+    margin-bottom: 30px;
+}
+
+a{
+    color: #97C4B8;
+    margin: 20px 20px 0px 20px;
+    text-decoration: none;
+
+}
+
+a:hover{
+    color: white;
+
+}
+
+.bottom-container{
+    background-color: #CCF3EE;
+    margin: 0px;
+    padding: 50px 0px 30px;
+}
